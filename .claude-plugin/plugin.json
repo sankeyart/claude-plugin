@@ -11,8 +11,6 @@
   "homepage": "https://www.sankeyart.com",
   "repository": "https://github.com/sankeyart/claude-plugin",
   "license": "MIT",
-  "privacyPolicyUrl": "https://www.sankeyart.com/privacy/",
-  "icon": "./.claude-plugin/icon.png",
   "keywords": [
     "sankey",
     "financial statements",
