@@ -1,0 +1,16 @@
+{
+  "name": "sankeyart",
+  "owner": {
+    "name": "SankeyArt GmbH",
+    "email": "support@sankeyart.com",
+    "url": "https://www.sankeyart.com"
+  },
+  "description": "SankeyArt for Claude Code: Sankey diagrams of financial statements and budgets.",
+  "plugins": [
+    {
+      "name": "sankeyart",
+      "source": "./",
+      "description": "Turn income statements, cash flow statements, balance sheets and budgets into Sankey diagrams."
+    }
+  ]
+}
