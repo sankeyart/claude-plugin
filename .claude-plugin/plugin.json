@@ -1,5 +1,6 @@
 {
   "name": "sankeyart",
+  "displayName": "SankeyArt",
   "version": "1.0.0",
   "description": "Turn income statements, cash flow statements, balance sheets and budgets into Sankey diagrams.",
   "author": {
@@ -11,6 +12,7 @@
   "repository": "https://github.com/sankeyart/claude-plugin",
   "license": "MIT",
   "privacyPolicyUrl": "https://www.sankeyart.com/privacy/",
+  "icon": "./.claude-plugin/icon.png",
   "keywords": [
     "sankey",
     "financial statements",

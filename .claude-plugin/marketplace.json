@@ -9,8 +9,15 @@
   "plugins": [
     {
       "name": "sankeyart",
+      "displayName": "SankeyArt",
       "source": "./",
-      "description": "Turn income statements, cash flow statements, balance sheets and budgets into Sankey diagrams."
+      "description": "Turn income statements, cash flow statements, balance sheets and budgets into Sankey diagrams.",
+      "category": "Finance",
+      "tags": [
+        "financial statements",
+        "data visualization",
+        "sankey"
+      ]
     }
   ]
 }
